@@ -1,0 +1,9 @@
+1. Show sok slides
+
+2. Show course slides
+
+3. Give out usernames and passwords
+
+4. Show users how to ssh into the server
+
+5. Show users how to send and recieve mail
