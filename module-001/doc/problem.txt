@@ -1,0 +1,30 @@
+Please help! I've made a mess of my downloads folder. This is where my browser 
+stores files that I download off the Internet. To make matters worse I like to 
+copy movies and music from friends. Normally I just dump these into that same
+downloads folder.
+
+I always tell myself that I will sort all the files in downloads later, but it
+seems I never get the time. And now there are so many files there, I don't know
+what to do.
+
+I have heard that you are a Linux guru, so won't you please help me organize
+all the stuff I have in my downloads folder? The files that I care most about 
+are movies (mostly in .avi format, but there may be a few in .mkv [matroska] 
+format as well) and my music (I have both MP3 and OGG files). I also have a 
+collection of ebooks (mostly PDFs but there maybe a few OpenOffice documents 
+and MS Word documents there as well).
+
+I download a lot of software. These normally come in .tar.gz packages, but 
+some are .tar.bz2 or even .zip format. I'd like to keep all of these inside
+a separate folder for packages.
+
+There are some text files (I've named them with a .txt extension) in the folder
+as well. Some of these I wrote, some I downloaded. I'd like these in a separate
+folder called 'notes'.
+
+Sometimes I save HTML files from the browser. These are mostly temporary files
+that I remove once I have finished reading them. You can let them stay in the
+downloads folder.
+
+Any other files should not be in the downloads folder and you can safely 
+remove them.

@@ -1,0 +1,26 @@
+1.  Let the user look into ~/downloads. Show how to use 'cd' and 'ls'.
+
+2.  Let the students decide on the directory structure. Show how 'mkdir' works.
+
+3.  Explain the concept of globbing. Give some examples. Use 'ls' for examples.
+
+4.  Explain extended globbing in bash. Show how to use 'shopt' to view and set
+    shell options.
+
+5.  Show the 'mv' command. Explain how to move a single file.
+
+6.  Let the students use 'mv' together with glob patterns to move all the files
+    according to spec.
+
+7.  Show the 'rm' command to remove files. Explain how to use '!' in an 
+    extended glob pattern to list files that do not match a pattern.
+
+8.  let the student verify that the only files left in ~/downloads are HTML
+    files.
+
+9.  Let the student copy all the commands they performed into a script. Use
+    bash history together with 'echo', '>' and '>>' to get the commands into
+    the script file.
+
+10. Rerun setup.py for each student, so that a new set of files appears in
+    ~/downloads. This time, let them use their new script to move the files.

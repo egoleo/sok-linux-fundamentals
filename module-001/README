@@ -1,0 +1,8 @@
+Problem
+-------
+
+The directory ~/downloads contains a number of files. These will need to be moved as follows:
+* movie files (avi,mp4) should be moved to ~/movies
+* music files (mp3,ogg) should be moved to ~/music
+* documents (pdf,txt,odt,doc) should be moved to ~/documents
+ 
